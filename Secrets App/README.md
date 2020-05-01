@@ -1,4 +1,4 @@
-# Budget App
+# Secrets App
 
 
 The following Screenshots are the output of the given options in the App.
